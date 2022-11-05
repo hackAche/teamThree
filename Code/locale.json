@@ -1,0 +1,8 @@
+{
+       "1b": {"max": 20, "lotacao": 0, "rota" : "anglo"},
+       "2b": {"max": 30, "lotacao": 0, "rota" : "capao"},
+       "3b": {"max": 40, "lotacao": 0, "rota" : "famed"},
+       "1p": {"total": 0, "destinos": {"anglo": 10, "capao": 20}},
+       "2p": {"total": 0, "destinos": {"anglo": 10, "capao": 20}},
+       "3p": {"total": 0, "destinos": {"anglo": 10, "capao": 20}}
+}
